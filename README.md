@@ -3,6 +3,6 @@ Hello,
 ```mermaid
 flowchart
 
-a -->b & c &d
+a --> b & c
 b--> c
 ```
